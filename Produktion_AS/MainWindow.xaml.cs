@@ -23,6 +23,7 @@ namespace Produktion_AS
         public MainWindow()
         {
             InitializeComponent();
+            WindowStartupLocation = WindowStartupLocation.CenterScreen;
         }
     }
 }
