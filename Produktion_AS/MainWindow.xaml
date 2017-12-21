@@ -9,6 +9,8 @@
     <Grid>
         <StackPanel>
             <Label HorizontalAlignment="Center">Yo</Label>
+            <Button Content="LoL" Width="150" Click="Button_Click"/>
+
         </StackPanel>
     </Grid>
 </Window>
